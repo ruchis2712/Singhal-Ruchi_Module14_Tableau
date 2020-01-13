@@ -4,7 +4,7 @@
 
 ## The most important entity in any business is customers
 
-### Thus, we have decided to analyze the demand potential in this section of the study and will be exploring and analyzing the following question:
+## Thus, we have decided to analyze the demand potential in this section of the study and will be exploring and analyzing the following question:
 
 ## Q: What is the population of Des Moines? How does its population compare to the population of New York City? Does the population affect the number of people who will use the bike-sharing program?
 
