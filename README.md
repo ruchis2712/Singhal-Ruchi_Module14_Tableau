@@ -36,3 +36,18 @@ That shows how far residents may have to travel outside of their work for shoppi
 
 ##### (2) Mean travel time to work & Average length of trips: 
 These are important factors to consider as in New York City due to population density, automobile travel time (given traffic congestion), high parking cost, and availability of public transport; people prefer public transport to travel to work and need to travel the short distance from their homes to Subway stations etc. Thus, bike transport becomes a very viable option in such a situation. It is important to assess the mean travel time to work along with, average length of trips and other factors to understand the travel needs of people and available competing options
+
+### Data Sources:
+(1) https://www.census.gov/quickfacts/fact/table/desmoinescityiowa/PST045218#PST045218
+(2) https://www1.nyc.gov/site/planning/planning-level/nyc-population/current-future-populations.page
+(3) http://worldpopulationreview.com/us-cities/des-moines-population/
+(4) https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,US/PST045219
+(5) https://www1.nyc.gov/site/planning/planning-level/nyc-population/population-facts.page
+(6) https://www.citibikenyc.com/system-data
+(7) https://en.wikipedia.org/wiki/Tourism_in_New_York_City
+(8) https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/
+(9) https://council.nyc.gov/land-use/wp-content/uploads/sites/53/2017/12/NYC-Council-Planning-For-Retail-Diversity.pdf
+(10) https://www.dsmpartnership.com/downtowndsmusa/filesimages/PDFs/2017%20Downtown%20Des%20Moines%20Retail%20Assessment.pdf
+(11) https://www.dot.ny.gov/divisions/policy-and-strategy/darb/dai-unit/ttss/repository/nhts01.pdf
+(12) http://onlinepubs.trb.org/onlinepubs/archive/conferences/nhts/Kane.pdf
+(13) https://www.nytimes.com › 2018/04/13 › business › dealbook › retail-industry
