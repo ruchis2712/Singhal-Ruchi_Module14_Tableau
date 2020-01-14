@@ -18,18 +18,17 @@ Population density supports bike-share demand. Higher population density correla
 Higher density areas have increased chances of traffic congestion due to automobiles and makes biking a more feasible choice.
 Higher density also improves accessibility, which reduces travel distances and makes non-motorized travel more feasible.
 
+#### Dashboard #3 (Customer Type):
+As is evident from CitiBike NYC August 2019 data, 81% customers are annual subscribers. Which means that bike sharing is most used by local residents. 19% of customers are not annual subscribers which may include visitors / tourists to NYC
 
-#### Dashboard #3 (Customer Type)
-As is from CitiBike NYC August 2019 data, 81% customers are annual subscribers. Which means that bike sharing is most used by local residents. 19% of customers are not annual subscribers which may include visitors / tourists to NYC
-
-#### Dashboard #4 (Impact of Tourism)
+#### Dashboard #4 (Impact of Tourism):
 As stated above, 19% of non-subscribing customers may include vistors/tourists. And in the light of the fact that Des Moines annual vistors number is manyfold its local population number, this may be an important customer segment to focus on, specially in the months of June-September when the tourism is at its peak.
 
-#### Dashboard #5 (Impact of Age)
+#### Dashboard #5 (Impact of Age):
 On analyzing CitiBike NYC August 2019 bike-sharing data, we found that average trip duration increases as age decreases.
 Also, student markets are a likely population for bike-sharing. Thus, it is important to analyze the age demographics of the population.
 
-#### Dashboard #6 (Other influencing factors)
+#### Dashboard #6 (Other influencing factors):
 Other important factors to consider are:
 (1) the Retail Square Footage per Capita: That shows how far residents may have to travel outside of their work for shopping/leisure etc.
 (2) Mean travel time to work & Average length of trips: These are important factors to consider as in New York City due to population density, automobile travel time given traffic congestion, high parking cost and availability of public transport, people prefer public transport to travel to work and need to travel the short distance from their homes to Subway stations etc. Thus, bike transport becomes a very viable option in such a situation. It is important to assess the mean travel time to work along with, average length of trips and other factors to understand the travel needs of people and available competing options
