@@ -31,6 +31,8 @@ Also, student markets are a likely population for bike-sharing. Thus, it is impo
 #### Dashboard #6 (Other influencing factors):
 Other important factors to consider are:
 
-(1) the Retail Square Footage per Capita: That shows how far residents may have to travel outside of their work for shopping/leisure etc.
+##### (1) the Retail Square Footage per Capita: 
+That shows how far residents may have to travel outside of their work for shopping/leisure etc.
 
-(2) Mean travel time to work & Average length of trips: These are important factors to consider as in New York City due to population density, automobile travel time given traffic congestion, high parking cost and availability of public transport, people prefer public transport to travel to work and need to travel the short distance from their homes to Subway stations etc. Thus, bike transport becomes a very viable option in such a situation. It is important to assess the mean travel time to work along with, average length of trips and other factors to understand the travel needs of people and available competing options
+##### (2) Mean travel time to work & Average length of trips: 
+These are important factors to consider as in New York City due to population density, automobile travel time (given traffic congestion), high parking cost and availability of public transport, people prefer public transport to travel to work and need to travel the short distance from their homes to Subway stations etc. Thus, bike transport becomes a very viable option in such a situation. It is important to assess the mean travel time to work along with, average length of trips and other factors to understand the travel needs of people and available competing options
