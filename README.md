@@ -19,7 +19,7 @@ Higher density areas have increased chances of traffic congestion due to automob
 Higher density also improves accessibility, which reduces travel distances and makes non-motorized travel more feasible.
 
 #### Dashboard #3 (Customer Type):
-As is evident from CitiBike NYC August 2019 data, 81% customers are annual subscribers. Which means that bike sharing is most used by local residents. 19% of customers are not annual subscribers which may include visitors / tourists to NYC
+As is evident from CitiBike NYC August 2019 bike-sharing data, 81% customers are annual subscribers. Which means that bike sharing is most used by local residents. 19% of customers are not annual subscribers which may include visitors / tourists to NYC
 
 #### Dashboard #4 (Impact of Tourism):
 As stated above, 19% of non-subscribing customers may include vistors/tourists. And in the light of the fact that Des Moines annual vistors number is manyfold its local population number, this may be an important customer segment to focus on, specially in the months of June-September when the tourism is at its peak.
