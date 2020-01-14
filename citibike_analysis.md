@@ -8,7 +8,7 @@
 ### Q: What is the population of Des Moines? How does its population compare to the population of New York City? Does the population affect the number of people who will use the bike-sharing program?
 =========================================================================
 ### - The link to the Tableau story is given below and we will be walking through it's different sections in detail:
-###   https://public.tableau.com/profile/ruchi7973#!/vizhome/Module14_Challenge/Story1?publish=yes
+###  [Des Moines Bike-Sharing (CitiBike) Analysis] (https://public.tableau.com/profile/ruchi7973#!/vizhome/Module14_Challenge/Story1?publish=yes)
 
 #### Dashboard #1 (Population Growth):
 The overall population of the city forms the pool of potential users. Besides analyzing the overall size of the pool, it is also important to analyze any increasing or decreasing trends in the city's population as that impacts the sustainability and growth of the business.
