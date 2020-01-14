@@ -10,7 +10,7 @@
 ###          https://public.tableau.com/profile/ruchi7973#!/vizhome/Module14_Challenge/Story1?publish=yes
 
 #### Dashboard #1 (Population Growth):
-The overall population of the city forms the pool of potential users. Besides analyzing the overall size of the pool, it is also important on analyze any increasing or decreasing trends in the city's population as that impacts the sustainability and growth of the business.
+The overall population of the city forms the pool of potential users. Besides analyzing the overall size of the pool, it is also important to analyze any increasing or decreasing trends in the city's population as that impacts the sustainability and growth of the business.
 Also, it is important to compare the New York population with Des Moines population to understand the possible scale and scope of new operations when compared with NYC Citibike.
 
 #### Dashboard #2 (Population Density):
